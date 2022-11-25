@@ -1,0 +1,4 @@
+IP: 127.0.0.2 | account: Hi | Character: good2 | HardwareID: E7CD5994-07944DD9-DBB79AF9-4A63248F | HardwareID v2: ASD@!# 
+IP: 127.0.0.2 | account: Hi | Character: good5 | HardwareID: EDEFB5994-07944DD9-DBB79AF9-4A63248F | HardwareID v2: ASD@!# 
+IP: 127.0.0.2 | account: Hi | Character: good4 | HardwareID: EE3B5994-07944DD9-DBB79AF9-4A63248F | HardwareID v2: ASD@!# 
+IP: 127.0.0.1 | account: Hi | Character: good3 | HardwareID: EE3B5994-07944DD9-DBB79AF9-4A63248F | HardwareID v2: ASD@!# 
