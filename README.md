@@ -7,4 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Panel
+## About FTP Watcher
+FTP Watcher is a program to manage folders and files in the ftp server.
+
+simple access
+good managing tools
+
+http://panel.softwarerg.com
+
+![image](https://user-images.githubusercontent.com/92518460/204024639-d06038a0-b3af-4db4-a98f-19508225e34d.png)
